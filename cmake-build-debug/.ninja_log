@@ -1,0 +1,14 @@
+# ninja log v5
+4	2612	1677652110231671271	CMakeFiles/matrix.dir/classes/polynomial/ThirdDegPolynomial.cpp.o	a3777d70e581fc0a
+4	2261	1677652109881976403	CMakeFiles/matrix.dir/classes/polynomial/FirstDegPolynomial.cpp.o	f9cb6e4e581cf35a
+0	46	1682582662226939284	build.ninja	8d47e842b2826c6e
+3	390	1677652265498427804	CMakeFiles/matrix.dir/classes/SquareMatrix.cpp.o	d1e0a374f9f92470
+390	463	1677652265572195041	matrix	734bca6977840f11
+2261	2602	1677652110221779076	CMakeFiles/matrix.dir/classes/polynomial/SecondDegPolynomial.cpp.o	6c5fe07042fa7c91
+4	2599	1677652110218410513	CMakeFiles/matrix.dir/classes/Vector.cpp.o	46afd7f136f738bd
+4	2615	1677652110235296205	CMakeFiles/matrix.dir/methods.cpp.o	81108f999f08b3dc
+2	282	1677652189092661946	CMakeFiles/matrix.dir/main.cpp.o	cc7add2320281c7a
+2599	2745	1677652110367030342	CMakeFiles/matrix.dir/classes/polynomial/math_functions.cpp.o	3d025fcfddbdb56d
+8	74	1682582662226939284	build.ninja	8d47e842b2826c6e
+1	2050	1682582664281949715	CMakeFiles/matrix.dir/main.cpp.o	cc7add2320281c7a
+2050	2285	1682582664519180383	matrix	734bca6977840f11

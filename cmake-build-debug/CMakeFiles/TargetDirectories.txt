@@ -1,0 +1,6 @@
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/CMakeFiles/matrix.dir
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/classes/polynomial/CMakeFiles/polynomial.dir
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/classes/polynomial/CMakeFiles/edit_cache.dir
+/Users/vladkirilov/CLionProjects/matrix/cmake-build-debug/classes/polynomial/CMakeFiles/rebuild_cache.dir
